@@ -6,4 +6,4 @@ Task: Stream tweets that containt the term "summer" and analyze sentiments.
 
 Results:
 
-![plot1](/Plots/1_plot_Sentiment.png)
+![plot1](/Plots/1_plotSentiment.png)
